@@ -1,3 +1,6 @@
+"""Reynaldo Acosta Perez (2020-9187) -
+Blokus con saqueta de loquera con Benchmarks, Algoritmos
+que espero que me sirvan en algun momento para analisis de datos"""
 import time
 import random
 import copy
